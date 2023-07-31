@@ -1,20 +1,14 @@
-Educational Use License
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)
 
-This work is licensed under the Educational Use License.
+This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
 
-Permissions:
+You are free to:
 
-1. You are permitted to use and access this work solely for educational purposes.
-2. You may not use this work for commercial purposes or any activity that generates income.
-3. Distribution of this work, in part or in whole, is not allowed. You may not share, publish, or distribute this work to others.
-4. You may not sublicense, transfer, or assign any rights granted under this license to any third party.
+- Share: Copy and redistribute the material in any medium or format for non-commercial purposes only.
 
-Disclaimer:
+Under the following terms:
 
-This work is provided "as is" without warranty of any kind, express or implied. The author(s) and copyright holder(s) disclaim all liability for any damages or issues arising from the use or inability to use this work for any purpose.
+- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- NonCommercial: You may not use the material for commercial purposes.
+- NoDerivatives: If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-Contact:
-
-For any questions or inquiries regarding the use of this work for educational purposes, please contact the author(s) at [your-email@example.com](mailto:your-email@example.com).
-
-© [Year] [Your Name or Organization Name]
