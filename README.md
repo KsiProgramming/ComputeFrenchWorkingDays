@@ -33,7 +33,54 @@ To use the `ComputeFrenchWorkingDays` library in your project, first, clone this
 
 ```bash
 git clone https://github.com/KsiProgramming/ComputeFrenchWorkingDays.git
-````
+```
+
+Next, add the ComputeFrenchWorkingDays project as a reference to your solution.
+
+```bash
+cd ComputeFrenchWorkingDays
+dotnet add reference path/to/your/project.csproj
+```
+
+Now you can use the ComputeFrenchWorkingDays library in your project.
+
+```csharp
+using ComputeFrenchWorkingDays;
+
+// ...
+
+// Calculate working days
+DateTime startDate = new DateTime(2023, 7, 31);
+int workingDaysToAdd = 3;
+DateTime resultDate = startDate.AddFrenchWorkingDays(workingDaysToAdd);
+
+Console.WriteLine($"Result: {resultDate:yyyy-MM-dd}");
+```
+
+## Examples
+
+Here are some examples of how to use the ComputeFrenchWorkingDays library:
+
+```csharp
+using ComputeFrenchWorkingDays;
+
+// Calculate working days for a given DateTime
+DateTime startDate = new DateTime(2023, 7, 31);
+int workingDaysToAdd = 3;
+DateTime resultDate = startDate.AddFrenchWorkingDays(workingDaysToAdd);
+
+Console.WriteLine($"Result: {resultDate:yyyy-MM-dd}");
+// Output: Result: 2023-08-03
+
+// Calculate working days for a given DateOnly
+DateOnly startDateOnly = new DateOnly(2023, 7, 31);
+DateOnly resultDateOnly = startDateOnly.AddFrenchWorkingDays(5);
+
+Console.WriteLine($"Result: {resultDateOnly:yyyy-MM-dd}");
+// Output: Result: 2023-08-07
+```
+
 
 ## License
+
 The ComputeFrenchWorkingDays library is licensed under the MIT License.
