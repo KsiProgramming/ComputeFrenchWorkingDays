@@ -80,7 +80,17 @@ Console.WriteLine($"Result: {resultDateOnly:yyyy-MM-dd}");
 // Output: Result: 2023-08-07
 ```
 
+## Contributing
+
+Contributions to the ComputeFrenchWorkingDays library are welcome! If you find a bug, have an idea for an improvement, or want to add a new feature, please open an issue or submit a pull request.
+
+Before contributing, please review the [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
-The ComputeFrenchWorkingDays library is licensed under the MIT License.
+The `ComputeFrenchWorkingDays` library is licensed under the [MIT License](LICENSE).
+
+---
+
+Thank you for using `ComputeFrenchWorkingDays`! We hope this library simplifies your working days calculation needs in France. If you have any questions or need further assistance, feel free to reach out to us. Happy coding!
+
