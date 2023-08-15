@@ -28,7 +28,7 @@ As project maintainers, we are responsible for enforcing this Code of Conduct. W
 
 ## Reporting Issues
 
-If you experience or witness any behavior that violates the Code of Conduct, please report it by contacting us at [maintainers-email@example.com](mailto:maintainers-email@example.com). All reports will be kept confidential and will be reviewed and addressed by the project maintainers.
+If you experience or witness any behavior that violates the Code of Conduct, please report it by contacting us at [esse.ed42@gmail.com](mailto:esse.ed42@gmail.com). All reports will be kept confidential and will be reviewed and addressed by the project maintainers.
 
 ## Attribution
 

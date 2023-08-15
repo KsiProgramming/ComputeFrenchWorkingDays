@@ -77,7 +77,5 @@
                 .Throw<ArgumentOutOfRangeException>()
                 .WithMessage(expectedExceptionMessage);
         }
-
-
     }
 }
